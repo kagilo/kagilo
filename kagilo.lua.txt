@@ -21,7 +21,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   })
 
        MinimizeButton({
-       Image = "http://www.roblox.com/asset/?id=83190276951914",
+       Image = "http://www.roblox.com/asset/?id=138556160162544",
        Size = {60, 60},
        Color = Color3.fromRGB(10, 10, 10),
        Corner = true,
@@ -43,5 +43,5 @@ end
      Name = "skid Hub",
     Callback = function()
  loadstring(game:HttpGet("https://raw.githubusercontent.com/YumCoding-Alt/StarlightHub/refs/heads/main/SkidConCacBaMay.txt"))()
-  end
-  })
+end 
+})
